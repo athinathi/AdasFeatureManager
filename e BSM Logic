@@ -1,0 +1,23 @@
+[33mcommit 4352726067b47d21d32296ae784f88542bb80ce9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: athinathi <athiyamans@outlook.com>
+Date:   Mon May 26 16:24:57 2025 +0000
+
+    Updated map routing
+
+[33mcommit c41ddf9296347152af2c6f2cabd99db04fe3b33d[m
+Author: athinathi <athiyamans@outlook.com>
+Date:   Mon May 26 14:18:43 2025 +0000
+
+    Add requirements.txt with dependencies
+
+[33mcommit 1bd4f1c66f6501f06f79246255e4c24a7a237742[m
+Author: athinathi <athiyamans@outlook.com>
+Date:   Mon May 26 14:07:58 2025 +0000
+
+    Initial Streamlit app
+
+[33mcommit a0bbdb647b947c7467407d19b2097a7eccbd63cf[m
+Author: athinathi <athiyamans@outlook.com>
+Date:   Mon May 26 19:32:21 2025 +0530
+
+    Initial commit

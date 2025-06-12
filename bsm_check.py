@@ -19,3 +19,5 @@ def evaluate_bsm_conditions(speed_kmph, road_type, lane_count, adjacent_lanes_pr
 
     return "Prompt Driver: Enable Blind Spot Monitoring?"
 
+
+
